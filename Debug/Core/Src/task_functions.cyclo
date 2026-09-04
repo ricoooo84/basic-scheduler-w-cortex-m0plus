@@ -1,0 +1,4 @@
+../Core/Src/task_functions.c:3:6:task0	1
+../Core/Src/task_functions.c:7:6:task1	2
+../Core/Src/task_functions.c:19:6:task2	2
+../Core/Src/task_functions.c:31:6:task3	2

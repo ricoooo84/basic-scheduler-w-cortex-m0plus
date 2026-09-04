@@ -1,0 +1,5 @@
+../Core/Src/scheduler.c:17:15:get_next_task	8	static
+../Core/Src/scheduler.c:23:13:task_stack_init	24	static
+../Core/Src/scheduler.c:51:13:scheduler_task_create	24	static
+../Core/Src/scheduler.c:78:6:scheduler_irq	8	static
+../Core/Src/scheduler.c:90:6:scheduler_init	8	static
